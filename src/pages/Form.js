@@ -12,9 +12,10 @@ export default function Form() {
       author: "",
     },
   ]);
-
+  const a = 20;
   const { username, description, content, dates, selection, author } = data;
   const changeHandler = (e) => {
+    debugger;
     setData({ ...data, [e.target.name]: e.target.value });
   };
   const submitHandler = (e) => {
@@ -30,6 +31,7 @@ export default function Form() {
   };
   return (
     <div>
+      {a}
       <form
         onSubmit={submitHandler}
         style={{ display: "flex", flexDirection: "column", width: "50%" }}
