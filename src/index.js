@@ -12,7 +12,7 @@ import ReduxSample from "./redux";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
-    {/* <Nav /> */}
+    <Nav />
     <Routes>
       <Route index element={<Home />} />
       <Route path="About" element={<About />} />
