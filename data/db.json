@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "admin",
+      "email": "test@test.com",
+      "password": "test1234"
+    }
+  ],
+  "cart": [],
+  "products": [
+    {
+      "description": "Some random string",
+      "id": 1,
+      "image": "https://robohash.org/1",
+      "price": 10,
+      "title": "Product 1",
+      "favourite": false
+    },
+    {
+      "description": "Some random string",
+      "id": 2,
+      "image": "https://robohash.org/2",
+      "price": 20,
+      "title": "Product 2",
+      "favourite": true
+    },
+    {
+      "description": "Some random string",
+      "id": 3,
+      "image": "https://robohash.org/3",
+      "price": 30,
+      "title": "Product 3",
+      "favourite": false
+    },
+    {
+      "description": "Some random string",
+      "id": 4,
+      "image": "https://robohash.org/4",
+      "price": 40,
+      "title": "Product 4",
+      "favourite": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Design",
+      "value": "design"
+    },
+    {
+      "name": "Development",
+      "value": "development"
+    },
+    {
+      "name": "Marketing",
+      "value": "marketing"
+    }
+  ],
+  "posts": [
+    {
+      "id": 64,
+      "title": "104 - Post",
+      "content": "This is the 104 post",
+      "image": "https://robohash.org/104",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "title": "108 - Post",
+      "id": 36
+    },
+    {
+      "id": 38,
+      "title": "66 - Post",
+      "content": "This is the 66 post",
+      "image": "https://robohash.org/66",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 41,
+      "title": "93 - Post",
+      "content": "This is the 93 post",
+      "image": "https://robohash.org/93",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 110,
+      "title": "54 - Post",
+      "content": "This is the 54 post",
+      "image": "https://robohash.org/54",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 113,
+      "title": "21 - Post",
+      "content": "This is the 21 post",
+      "image": "https://robohash.org/21",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 100,
+      "title": "37 - Post",
+      "content": "This is the 37 post",
+      "image": "https://robohash.org/37",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 93,
+      "title": "58 - Post",
+      "content": "This is the 58 post",
+      "image": "https://robohash.org/58",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 43,
+      "title": "109 - Post",
+      "content": "This is the 109 post",
+      "image": "https://robohash.org/109",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 80,
+      "title": "101 - Post",
+      "content": "This is the 101 post",
+      "image": "https://robohash.org/101",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 42,
+      "title": "82 - Post",
+      "content": "This is the 82 post",
+      "image": "https://robohash.org/82",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 91,
+      "title": "54 - Post",
+      "content": "This is the 54 post",
+      "image": "https://robohash.org/54",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "93 - Post",
+      "content": "This is the 93 post",
+      "image": "https://robohash.org/93",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "103 - Post",
+      "content": "This is the 103 post",
+      "image": "https://robohash.org/103",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "87 - Post",
+      "content": "This is the 87 post",
+      "image": "https://robohash.org/87",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 70,
+      "title": "75 - Post",
+      "content": "This is the 75 post",
+      "image": "https://robohash.org/75",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "79 - Post",
+      "content": "This is the 79 post",
+      "image": "https://robohash.org/79",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 76,
+      "title": "24 - Post",
+      "content": "This is the 24 post",
+      "image": "https://robohash.org/24",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 50,
+      "title": "46 - Post",
+      "content": "This is the 46 post",
+      "image": "https://robohash.org/46",
+      "author": "John Doe",
+      "createdAt": "2022-01-01T00:00:00.000Z",
+      "updatedAt": "2022-01-01T00:00:00.000Z"
+    }
+  ]
+}

@@ -16,6 +16,9 @@ export default function Nav() {
         <li>
           <Link to="/form">form</Link>
         </li>
+        <li>
+          <Link to="/redux">redux</Link>
+        </li>
       </ul>
     </div>
   );
