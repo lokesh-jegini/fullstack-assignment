@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "Title": "sample",
+      "Content": "sampleContent",
+      "shortDescription": "Nothing",
+      "Author": "jegini1",
+      "category": "science"
+    },
+    {
+      "id": 2,
+      "Title": "sample2",
+      "Content": "sampleContent2",
+      "shortDescription": "Nothing2",
+      "Author": "jegini2",
+      "category": "english"
+    },
+    {
+      "id": 3,
+      "Title": "sample2",
+      "Content": "sampleContent3",
+      "shortDescription": "Nothing3",
+      "Author": "jegini3",
+      "category": "maths"
+    },
+    {
+      "id": 4,
+      "Title": "sample4",
+      "Content": "sampleContent4",
+      "shortDescription": "Nothing4",
+      "Author": "jegini4",
+      "category": "telugu"
+    },
+    {
+      "id": 5,
+      "Title": "sample5",
+      "Content": "sampleContent5",
+      "shortDescription": "Nothing5",
+      "Author": "jegini5",
+      "category": "tamil"
+    }
+  ]
+}
